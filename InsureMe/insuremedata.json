@@ -1,0 +1,106 @@
+﻿[
+    {
+        "age": 25,
+        "premium": 100
+    },
+    {
+        "age": 26,
+        "premium": 105
+    },
+    {
+        "age": 27,
+        "premium": 110
+    },
+    {
+        "age": 28,
+        "premium": 115
+    },
+    {
+        "age": 29,
+        "premium": 118
+    },
+    {
+        "age": 30,
+        "premium": 122
+    },
+    {
+        "age": 31,
+        "premium": 125
+    },
+    {
+        "age": 32,
+        "premium": 129
+    },
+    {
+        "age": 33,
+        "premium": 131
+    },
+    {
+        "age": 34,
+        "premium": 135
+    },
+    {
+        "age": 35,
+        "premium": 138
+    },
+    {
+        "age": 36,
+        "premium": 142
+    },
+    {
+        "age": 37,
+        "premium": 150
+    },
+    {
+        "age": 38,
+        "premium": 160
+    },
+    {
+        "age": 39,
+        "premium": 170
+    },
+    {
+        "age": 40,
+        "premium": 185
+    },
+    {
+        "age": 41,
+        "premium": 200
+    },
+    {
+        "age": 42,
+        "premium": 250
+    },
+    {
+        "age": 43,
+        "premium": 300
+    },
+    {
+        "age": 44,
+        "premium": 350
+    },
+    {
+        "age": 45,
+        "premium": 450
+    },
+    {
+        "age": 46,
+        "premium": 600
+    },
+    {
+        "age": 47,
+        "premium": 650
+    },
+    {
+        "age": 48,
+        "premium": 800
+    },
+    {
+        "age": 49,
+        "premium": 900
+    },
+    {
+        "age": 50,
+        "premium": 1000
+    }
+]
